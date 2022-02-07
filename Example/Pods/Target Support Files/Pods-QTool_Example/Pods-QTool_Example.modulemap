@@ -1,0 +1,6 @@
+framework module Pods_QTool_Example {
+  umbrella header "Pods-QTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

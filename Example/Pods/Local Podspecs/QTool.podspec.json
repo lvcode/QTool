@@ -1,0 +1,24 @@
+{
+  "name": "QTool",
+  "version": "0.0.1",
+  "summary": "测试上传组件",
+  "description": "这是一款内容丰富的工具类",
+  "homepage": "https://github.com/lvcode/QTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lvcode": "974452980@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lvcode/QTool.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "QTool/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}

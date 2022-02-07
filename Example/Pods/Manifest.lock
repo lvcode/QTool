@@ -1,0 +1,16 @@
+PODS:
+  - QTool (0.0.1)
+
+DEPENDENCIES:
+  - QTool (from `../`)
+
+EXTERNAL SOURCES:
+  QTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QTool: 8924f7ba904b60edfae4dc703b0387c37db386e9
+
+PODFILE CHECKSUM: 5d1dbd3b442d7d6de51e477104070d57d342da07
+
+COCOAPODS: 1.10.1
